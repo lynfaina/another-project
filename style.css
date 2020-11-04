@@ -6,7 +6,11 @@
     input[type=text] {
     width: 100%;
     padding: 12px 20px;
+<<<<<<< HEAD
     margin: 9px 0;
+=======
+    margin: 8px 8px;
+>>>>>>> from-c
     box-sizing: border-box;
     border: 2px solid blue;
     border-radius: 4px;
